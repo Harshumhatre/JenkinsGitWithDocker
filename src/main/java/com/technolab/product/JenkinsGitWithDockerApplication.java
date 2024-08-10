@@ -9,7 +9,7 @@ public class JenkinsGitWithDockerApplication {
 	
 	@GetMapping("/")
 	public void getData() {
-		System.out.println("Hi Harshad");
+		System.out.println("Welcome Harshad");
 	}
 
 	public static void main(String[] args) {
